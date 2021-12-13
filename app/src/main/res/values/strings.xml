@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kotlin_Practice_PythagoreanTheorem</string>
+    <string name="title">Calculate "C"</string>
+    <string name="result_info">Resultate:&#160;</string>
+    <string name="input_a">Input the value of side \"A\"</string>
+    <string name="input_b">Input the value of side \"B\"</string>
+    <string name="result">Calculate</string>
+    <string name="errorEmpty">There should be a value</string>
+</resources>
